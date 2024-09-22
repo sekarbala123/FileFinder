@@ -28,5 +28,4 @@
 
 ## Screen Reference
 * ![GUI mode.png](GUI%20Mode.png)
-* ![Console Mode.png](console_mode.png)
 * 
