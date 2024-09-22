@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c41bc1a6-d1c8-4979-9de0-6daaabd71827" name="Changes" comment="updated Readme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="public/feature/inital" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:sekarbala123/FileFinder.git",
+    "accountId": "10731d41-dcef-4462-942a-d0216c99f3fa"
+  }
+}]]></component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="MavenRunConfiguration" name="ArchiveFinder [install]" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2liwDlljoRQLQRs7t7JyfLOj6fp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArchiveFinder.executor": "Run",
+    "Application.ArchiveFinderGUI.executor": "Run",
+    "Application.RecursiveArchiveFinder.executor": "Run",
+    "Application.RedirectSystemOutToJTextArea (1).executor": "Run",
+    "Application.RedirectSystemOutToJTextArea.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.ArchiveFinder [clean,install].executor": "Run",
+    "Maven.ArchiveFinder [clean,package].executor": "Run",
+    "Maven.ArchiveFinder [clean].executor": "Run",
+    "Maven.ArchiveFinder [compile].executor": "Run",
+    "Maven.ArchiveFinder [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/bn/Documents/spss/workspace/ArchiveFinder/ArchiveFinder/src/main/java/org/example",
+    "last_opened_file_path": "/Users/bn/Documents/spss/workspace/ArchiveFinder/ArchiveFinder/pom.xml",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.19885057",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ArchiveFinderGUI">
+    <configuration name="ArchiveFinderGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bn.ArchiveFinderGUI" />
+      <module name="ArchiveFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveArchiveFinder" type="Application" factoryName="Application">
+      <classpathModifications>
+        <entry path="$PROJECT_DIR$/target/ArchiveFinder-1.0-SNAPSHOT.jar" />
+      </classpathModifications>
+      <option name="MAIN_CLASS_NAME" value="org.bn.RecursiveArchiveFinder" />
+      <module name="ArchiveFinder" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$USER_HOME$/Downloads/&quot; &quot;HELP.md&quot; &quot;ear,zip,war&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveArchiveFinder1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RecursiveArchiveFinder1" />
+      <module name="ArchiveFinder" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$USER_HOME$/Downloads/&quot; &quot;HELP.md&quot; &quot;ear,zip,war&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedirectSystemOutToJTextArea (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RedirectSystemOutToJTextArea" />
+      <module name="ArchiveFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedirectSystemOutToJTextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bn.RedirectSystemOutToJTextArea" />
+      <module name="ArchiveFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedirectSystemOutToJTextArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bn.RedirectSystemOutToJTextArea" />
+      <module name="ArchiveFinder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RecursiveArchiveFinder" />
+      <item itemvalue="Application.RedirectSystemOutToJTextArea (1)" />
+      <item itemvalue="Application.ArchiveFinderGUI" />
+      <item itemvalue="Application.RecursiveArchiveFinder1" />
+      <item itemvalue="Application.RedirectSystemOutToJTextArea" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArchiveFinderGUI" />
+        <item itemvalue="Application.RedirectSystemOutToJTextArea" />
+        <item itemvalue="Application.RecursiveArchiveFinder1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c41bc1a6-d1c8-4979-9de0-6daaabd71827" name="Changes" comment="" />
+      <created>1725676091955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725676091955</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1725690377757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725690377757</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Readme.md">
+      <option name="closed" value="true" />
+      <created>1725690677885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725690677885</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Readme.md">
+      <option name="closed" value="true" />
+      <created>1725690890032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725690890032</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated wildcard search">
+      <option name="closed" value="true" />
+      <created>1725691531946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725691531946</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added gui">
+      <option name="closed" value="true" />
+      <created>1725697853838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725697853838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated snapshots">
+      <option name="closed" value="true" />
+      <created>1725711000647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725711000647</updated>
+    </task>
+    <task id="LOCAL-00007" summary="removed unnecessary warnings for ext less files">
+      <option name="closed" value="true" />
+      <created>1725712388567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725712388567</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactored to org.bn and other fixes">
+      <option name="closed" value="true" />
+      <created>1725713574874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725713574874</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated Readme">
+      <option name="closed" value="true" />
+      <created>1725714586165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725714586165</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated Readme">
+      <option name="closed" value="true" />
+      <created>1725714831015</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725714831015</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added Readme.md" />
+    <MESSAGE value="updated wildcard search" />
+    <MESSAGE value="Added gui" />
+    <MESSAGE value="updated snapshots" />
+    <MESSAGE value="removed unnecessary warnings for ext less files" />
+    <MESSAGE value="refactored to org.bn and other fixes" />
+    <MESSAGE value="updated Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/bn/RecursiveArchiveFinder1.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
